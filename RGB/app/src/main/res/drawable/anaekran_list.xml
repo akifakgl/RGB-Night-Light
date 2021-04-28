@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:drawable="@drawable/anaekran_1"
+        android:duration="2000"/>
+
+    <item android:drawable="@drawable/anaekran_2"
+        android:duration="2000"/>
+
+    <item android:drawable="@drawable/anaekran_3"
+        android:duration="2000"/>
+
+    <item android:drawable="@drawable/anaekran_4"
+        android:duration="2000"/>
+
+    <item android:drawable="@drawable/anaekran_5"
+        android:duration="2000"/>
+
+
+
+</animation-list>
